@@ -1,4 +1,4 @@
-function findLastElement(array) {
+function findlastelement(array) {
         if(Array.isArray(array)) {
             return array[array.length - 1]
         } else {
@@ -6,7 +6,7 @@ function findLastElement(array) {
         }
 }
 
-// const _findLastElement = findLastElement;
-// export { _findLastElement as findLastElement };
+// const _findlastelement = findlastelement;
+// export { _findlastelement as findlastelement };
 
-module.exports.findLastElement = findLastElement;
+module.exports.findlastelement = findlastelement;
