@@ -4,4 +4,4 @@ Get last element of an array
 
 # Installation
 
-`npm i findLastElement --save`
+`npm i findlastelement --save`
