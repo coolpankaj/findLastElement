@@ -1,6 +1,6 @@
 {
   "name": "findlastelement",
-  "version": "2.0.0",
+  "version": "4.0.0",
   "description": "to find last element of an array",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/coolpankaj/findLastElement/issues"
   },
-  "homepage": "https://github.com/coolpankaj/findLastElement#readme"
+  "homepage": "https://github.com/coolpankaj/findLastElement#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
