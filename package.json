@@ -1,5 +1,5 @@
 {
-  "name": "findlastelement",
+  "name": "@coolpankaj/findlastelement",
   "version": "4.0.0",
   "description": "to find last element of an array",
   "main": "index.js",
